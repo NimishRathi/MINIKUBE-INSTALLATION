@@ -19,8 +19,6 @@ sudo dnf repolist
 
 ![Alt text](https://github.com/NimishRathi/MINIKUBE-INSTALLATION/blob/main/Screenshot%202024-05-18%20002648.png)
 
-sudo dnf install docker-ce docker-ce-cli containerd.io -y
-![Alt text](https://github.com/NimishRathi/MINIKUBE-INSTALLATION/blob/main/Screenshot%202024-05-18%20002801.png)
 
 # Install Docker CE (Community Edition)
 sudo dnf install docker-ce docker-ce-cli containerd.io -y
